@@ -25,8 +25,10 @@ This script is designed to test web applications for SQL injection vulnerabiliti
 1. Clone this repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/jejo205713/SQL-Killer.git
+    ```
+    ```bash
+    cd SQL-Killer/
     ```
 
 2. Run the script:
@@ -62,3 +64,7 @@ For the full list of payloads, see the [payloads.py](payloads.py) file.
 Enter the target URL: https://example.com/login
 Testing payload: ' or 1=1--
 Potential vulnerability detected with payload: ' or 1=1--
+```
+
+## CREDITS:
+JEJO J
